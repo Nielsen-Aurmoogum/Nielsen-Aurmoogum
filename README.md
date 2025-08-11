@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Working" /></p>
 
-- 🔭 I’m currently working on [GlucoVision](https://github.com/KoalaaDev/Project-Oppenheimer)
+- 🔭 I’m currently working on my portfolio website
 
 - 🌱 I’m currently learning **Flutter**
 
